@@ -4,4 +4,6 @@
 
 2023.02 현재 주된 학습 방법은 DreamBooth와 LoRA가 있는데, 그중에서 DreamBooth에 대해 설명합니다.
 
+[Colab]
+
 [아직 작성중]
